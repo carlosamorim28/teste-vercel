@@ -5,6 +5,6 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     
-    <h2>Não deu bom</h2>
+    <h2>Sim, deu bom</h2>
   )
 }
